@@ -1,30 +1,30 @@
 ```bash
-   ('-.  ) (`-.       _ (`-.
- _(  OO)  ( OO ).    ( (OO  )
-(,------.(_/.  \_)-._.`     \
- |  .---' \  `.'  /(__...--''
- |  |      \     /\ |  /  | |
-(|  '--.    \   \ | |  |_.' |
- |  .--'   .'    \_)|  .___.'
- |  `---. /  .'.  \ |  |
- `------''--'   '--'`--'
+      (`-.   _  .-')   .-') _    
+    _(OO  )_( \( -O ) (  OO) )   
+,--(_/   ,. \,------. /     '._  
+\   \   /(__/|   /`. '|'--...__) 
+ \   \ /   / |  /  | |'--.  .--' 
+  \   '   /, |  |_.' |   |  |    
+   \     /__)|  .  '.'   |  |    
+    \   /    |  |\  \    |  |    
+     `-'     `--' '--'   `--' 
 ```
 
-# Express API Scaffolding (express-draft)
+# Vite React App Generator (react-vite-gen)
 
-This is a no nonsense and minimal Express.js application generator, which is can be used as a starting point for any express application.
+This is a simple and minimal Vite + React application generator, which can be used as a starting point for any Vite React app with TailwindCSS.
 
 ## Installation 🏭
 
 ```bash
-$ npm install -g express-draft
+$ npm install -g react-vite-gen
 ```
 
-## Why another express generator ❓
+## Why another Vite React generator ❓
 
-1.  This generates the API scaffolding with the **error handler** ⚠️, which is always a good idea.
+1.  This generates the Vite React application scaffold with **TailwindCSS** integration ⚡, making it easier to start building with a modern styling framework.
 
-2.  Only installs the bare bones 💀 and "mostly" required dependencies whenever you try to start a new express application.
+2.  Only installs the essential **dependencies** 🔑 for a React app setup with Vite, keeping it lightweight and fast.
 
 ## Quick Start 🏃‍♂️
 
@@ -33,14 +33,14 @@ The quickest way to get started with express is to utilize the executable `exp` 
 Create (and start) the app in current folder:
 
 ```bash
-$ exp .
+$ vrt .
 $ npm run dev
 ```
 
 OR, create (and start) the app (in `myApp` folder):
 
 ```bash
-$ exp myApp
+$ vrt myApp
 $ cd myApp
 $ npm run dev
 ```
@@ -48,14 +48,30 @@ $ npm run dev
 This will basically create this structure in your folder
 
 ```bash
+
 .
 ├── .env
-├── app.js
+├── .gitignore
+├── eslint.config.js
+├── index.html
 ├── node_modules
 ├── package-lock.json
 ├── package.json
-└── routes
-    └── api.route.js
+├── postcss.config.js
+├── tailwind.config.js
+├── README.md
+├── vercel.json
+├── vite.config.js
+├── public
+│   ├── assets
+│   └── tailwind-css.svg
+└── src
+    ├── assets
+    │   └── vite.svg
+    ├── index.css
+    ├── App.jsx
+    └── main.jsx
+            
 ```
 
 This is how easy it is to get going.
@@ -66,29 +82,48 @@ This is how easy it is to get going.
 <img src='https://raw.githubusercontent.com/David-patrick-chuks/react-vite-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='react-vite-gen-draft'>
 </p>
 
-## What dependencies it installs ?
+## What dependencies does it install?
 
-- **express** - express framework
-- **dotenv** - for env variables
-- **http-errors** - to create http errors
-- **morgan** - to log http requests
-- **nodemon** (dev) - monitors changes in files
+- **vite** - A fast build tool for modern web projects.
+- **react** - A JavaScript library for building user interfaces.
+- **react-dom** - Serves as the entry point for the React DOM rendering.
+- **react-scripts** - Scripts and configuration used by Create React App.
+- **@vitejs/plugin-react** - Official plugin for React support in Vite.
+- **tailwindcss** - A utility-first CSS framework for rapidly building custom designs.
+- **postcss** - A tool for transforming CSS with JavaScript plugins (needed by Tailwind CSS).
+- **autoprefixer** - Adds vendor prefixes to CSS rules for better browser support (used with Tailwind CSS).
 
 ## Command Line Options
 
-Actually NONE is required 😊 as of now, incase I continue this project OR I'll get requests then certainly this is not the end.
+The `vrt` command provides several options to initialize a Vite + React app or to display help and version information.
 
-## Author ✍️
+### Usage
+```bash
+vrt [options]
+```
+# Options
 
-[**Truly Mittal 🇮🇳**](https://trulymittal.com)
+```bash
+<app-name>              Initialize a new Vite React app in the specified directory.
 
-## YouTube 📺
+-h, --help              Print the help message listing available command line options.
 
-https://youtube.com/c/yourstruly267
+<directory-name>        Specify a directory to initialize the app in.
+
+-v, --version           Print the version of the vrt package.
+```
+
+## Creator ✍️
+
+[**David Patrick 🇮🇳**](https://davidtsx.vercel.app)
+
+## Twitter 🐦
+
+https://x.com/davepatty5686
 
 ## Donations 💰
 
-https://paypal.me/trulymittal
+https://buymeacoffee.com/davidpatrickchuks
 
 ## License 🎫
 
