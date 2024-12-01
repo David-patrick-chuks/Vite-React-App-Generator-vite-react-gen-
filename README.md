@@ -131,15 +131,24 @@ https://buymeacoffee.com/davidpatrickchuks
 
 [MIT](LICENSE)
 
-### [Dave Patty](https://github.com/David-patrick-chuks) 
+# Contributors
 
-<div style="display: inline-block; margin-right: 10px; overflow: hidden; border-radius: 50%;">
-  <img src="https://avatars.githubusercontent.com/u/161928481?v=4" width="50" height="50" style="border-radius: 100%;" />
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="display: inline-block; margin-right: 10px; overflow: hidden; border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/161928481?v=4" width="80" height="80" />
+  </div>
+  <a href="https://github.com/David-patrick-chuks" style="font-size: 18px; font-weight: bold; color: inherit; text-decoration: none;">
+    Dave Patty
+  </a>
 </div>
 
-### [BugHunter-X](https://github.com/BugHunter-X) 
-<div style="display: inline-block; overflow: hidden; border-radius: 50%;">
-  <img src="https://avatars.githubusercontent.com/u/190237249?v=4" width="50" height="50" style="border-radius: 100%;" />
+<div style="display: flex; align-items: center;">
+  <div style="display: inline-block; margin-right: 10px; overflow: hidden; border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/190237249?v=4" width="80" height="80" />
+  </div>
+  <a href="https://github.com/BugHunter-X" style="font-size: 18px; font-weight: bold; color: inherit; text-decoration: none;">
+    BugHunter-X
+  </a>
 </div>
 
 ## Contributing
