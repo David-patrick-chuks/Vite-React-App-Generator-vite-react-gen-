@@ -143,4 +143,4 @@ https://buymeacoffee.com/davidpatrickchuks
 
 ## Contributing
 
-For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/vite-react-gen/blob/main/CONTRIBUTE.md).
+For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/Vite-React-App-Generator-vite-react-gen-/blob/main/CONTRIBUTE.md).

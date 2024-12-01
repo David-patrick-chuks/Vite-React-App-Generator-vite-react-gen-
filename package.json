@@ -33,6 +33,9 @@
     "react-vite-gen"
   ],
   "preferGlobal": true,
+  "publishConfig": {
+  "registry": "https://github.com/David-patrick-chuks/Vite-React-App-Generator-vite-react-gen-"
+},
   "files": [
     "LICENSE",
     "README.md",
