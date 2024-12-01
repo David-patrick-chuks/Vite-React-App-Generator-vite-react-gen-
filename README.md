@@ -17,7 +17,7 @@ This is a simple and minimal Vite + React application generator, which can be us
 ## Installation 🏭
 
 ```bash
-$ npm install -g vite-react-gen
+$ npm install -g vite-react-generator
 ```
 
 ## Why another Vite React generator ❓
