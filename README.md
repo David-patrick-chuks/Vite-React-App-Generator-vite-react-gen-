@@ -48,7 +48,7 @@ $ npm run dev
 ## A Snapshot Says It All.
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/David-patrick-chuks/vite-react-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='vite-react-gen-draft'>
+<img src='https://raw.githubusercontent.com/David-patrick-chuks/Vite-React-App-Generator-vite-react-gen-/refs/heads/main/SCREENCAST.svg' width='600' alt='vite-react-gen-draft'>
 </p>
 
 
