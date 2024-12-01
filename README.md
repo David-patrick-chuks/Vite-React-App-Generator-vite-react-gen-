@@ -63,7 +63,7 @@ This is how easy it is to get going.
 ## A picture is worth a thousand words.
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/david-patrick-chuks/express-draft/master/SCREENCAST.svg' width='600' alt='express-draft'>
+<img src='https://raw.githubusercontent.com/David-patrick-chuks/react-vite-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='react-vite-gen-draft'>
 </p>
 
 ## What dependencies it installs ?
