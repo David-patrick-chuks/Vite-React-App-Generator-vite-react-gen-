@@ -1,0 +1,59 @@
+{
+  "name": "react-vite-gen",
+  "version": "1.0.0",
+  "main": "bin/cli.js",
+  "bin": {
+    "react-vite-gen": "bin/cli.js",
+    "react-js": "bin/cli.js",
+    "react-ts": "bin/cli.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "express",
+    "framework",
+    "express-draft",
+    "exp",
+    "express api scaffolding",
+    "sinatra",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "preferGlobal": true,
+  "files": [
+    "LICENSE",
+    "bin/",
+    "templates/"
+  ],
+  "author": "David Patrick <pd3072894@gmail.com> (https://www.davidtsx.vercel.app/)",
+  "license": "MIT",
+  "description": "Minimal express api generator",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "figlet": "^1.8.0",
+    "fs-extra": "^11.2.0",
+    "log-symbols": "^7.0.0",
+    "ora": "^8.1.1"
+  },
+  "devDependencies": {
+    "validate-npm-package-name": "^6.0.0"
+  },
+  "homepage": "https://github.com/trulymittal/express-draft",
+  "bugs": {
+    "url": "https://github.com/trulymittal/express-draft/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trulymittal/express-draft.git"
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://paypal.me/trulymittal"
+    }
+  ]
+}
