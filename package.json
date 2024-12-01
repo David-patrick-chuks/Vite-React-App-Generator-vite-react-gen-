@@ -1,10 +1,10 @@
 {
-  "name": "react-vite-gen",
-  "version": "1.0.1",
+  "name": "vite-react-gen",
+  "version": "1.0.4",
   "main": "build/cli.js",
   "type": "module",
   "build": {
-    "react-vite-gen": "build/cli.js",
+    "vite-react-gen": "build/cli.js",
     "vrt": "build/cli.js"
   },
   "scripts": {
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "vite",
+    "vite-react-gen",
+    "vrt",
     "react",
     "vite-react",
     "vite generator",
@@ -27,7 +29,8 @@
     "web development",
     "modern web",
     "react starter",
-    "vite starter"
+    "vite starter",
+    "react-vite-gen"
   ],
   "preferGlobal": true,
   "files": [
