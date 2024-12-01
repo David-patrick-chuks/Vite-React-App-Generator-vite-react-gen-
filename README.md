@@ -45,6 +45,13 @@ $ cd myApp
 $ npm run dev
 ```
 
+## A Snapshot Says It All.
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/David-patrick-chuks/react-vite-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='react-vite-gen-draft'>
+</p>
+
+
 This will basically create this structure in your folder
 
 ```bash
@@ -76,11 +83,6 @@ This will basically create this structure in your folder
 
 This is how easy it is to get going.
 
-## A picture is worth a thousand words.
-
-<p align='center'>
-<img src='https://raw.githubusercontent.com/David-patrick-chuks/react-vite-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='react-vite-gen-draft'>
-</p>
 
 ## What dependencies does it install?
 

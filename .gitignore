@@ -3,3 +3,5 @@ templates/
 bin/
 update.txt
 templates-extra/default.gitignore
+
+.npmignore

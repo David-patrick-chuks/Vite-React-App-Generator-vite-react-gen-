@@ -3,6 +3,7 @@
 *.log
 node_modules/
 test/
+bin/
 .git/
 .vscode/
 update.txt

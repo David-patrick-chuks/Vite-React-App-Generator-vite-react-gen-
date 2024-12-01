@@ -1,11 +1,11 @@
 {
   "name": "react-vite-gen",
-  "version": "1.0.0",
-  "main": "bin/cli.js",
+  "version": "1.0.1",
+  "main": "build/cli.js",
   "type": "module",
-  "bin": {
-    "react-vite-gen": "bin/cli.js",
-    "vrt": "bin/cli.js"
+  "build": {
+    "react-vite-gen": "build/cli.js",
+    "vrt": "build/cli.js"
   },
   "scripts": {
     "build": "javascript-obfuscator bin --output build --compact true --control-flow-flattening true"
