@@ -131,24 +131,15 @@ https://buymeacoffee.com/davidpatrickchuks
 
 [MIT](LICENSE)
 
-## Contribute 🤝
+# Contributors
 
-You can fork this repo and send me a PR by following these steps:
+### [Dave Patty](https://github.com/David-patrick-chuks)
+<img src="https://avatars.githubusercontent.com/u/161928481?v=4" width="100" height="100" style="border-radius: 50%;" />
 
-```bash
-# Fork the repo and clone your fork
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+### [BugHunter-X](https://github.com/BugHunter-X)
+<img src="https://avatars.githubusercontent.com/u/190237249?v=4" width="100" height="100" style="border-radius: 50%;" />
 
-# Add your name and GitHub link to contributors.json
-echo '{"name": "[Your Name]", "github": "https://github.com/[Your-GitHub]"}' >> contributors.json
 
-# Commit and push changes
-git add contributors.json
-git commit -m "Added [Your Name] as a contributor"
-git push origin main
+## Contributing
 
-# Open a Pull Request (PR) from your fork to this repo
-```
-
-Once your PR is merged, you'll be added as a contributor to the private repo! Thank you for contributing! 🙌
+For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/react-vite-gen/CONTRIBUTE.md).
