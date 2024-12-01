@@ -2,26 +2,31 @@
   "name": "react-vite-gen",
   "version": "1.0.0",
   "main": "bin/cli.js",
+  "type": "module",
   "bin": {
     "react-vite-gen": "bin/cli.js",
-    "react-js": "bin/cli.js",
-    "react-ts": "bin/cli.js"
+    "vrt": "bin/cli.js"
   },
   "scripts": {},
   "keywords": [
-    "express",
-    "framework",
-    "express-draft",
-    "exp",
-    "express api scaffolding",
-    "sinatra",
-    "web",
-    "rest",
-    "restful",
-    "router",
-    "app",
-    "api"
-  ],
+  "vite",
+  "react",
+  "vite-react",
+  "vite generator",
+  "react generator",
+  "tailwindcss",
+  "tailwind",
+  "google fonts",
+  "poppins",
+  "frontend",
+  "app generator",
+  "vite app",
+  "react vite",
+  "web development",
+  "modern web",
+  "react starter",
+  "vite starter"
+],
   "preferGlobal": true,
   "files": [
     "LICENSE",
@@ -30,7 +35,7 @@
   ],
   "author": "David Patrick <pd3072894@gmail.com> (https://www.davidtsx.vercel.app/)",
   "license": "MIT",
-  "description": "Minimal express api generator",
+  "description": "A streamlined Vite + React app generator with a minimal yet powerful setup. Includes pre-configured Tailwind CSS for styling and Google Font Poppins for modern typography, providing a fast and optimized development environment for building applications.",
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.3.0",
@@ -42,18 +47,18 @@
   "devDependencies": {
     "validate-npm-package-name": "^6.0.0"
   },
-  "homepage": "https://github.com/trulymittal/express-draft",
+  "homepage": "https://github.com/David-patrick-chuks/react-vite-gen",
   "bugs": {
-    "url": "https://github.com/trulymittal/express-draft/issues"
+    "url": "https://github.com/David-patrick-chuks/react-vite-gen/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trulymittal/express-draft.git"
+    "url": "https://github.com/David-patrick-chuks/react-vite-gen.git"
   },
   "funding": [
     {
       "type": "individual",
-      "url": "https://paypal.me/trulymittal"
+      "url": "https://buymeacoffee.com/davidpatrickchuks"
     }
   ]
 }
