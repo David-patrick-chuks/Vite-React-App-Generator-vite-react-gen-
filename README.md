@@ -131,15 +131,17 @@ https://buymeacoffee.com/davidpatrickchuks
 
 [MIT](LICENSE)
 
-# Contributors
+### [Dave Patty](https://github.com/David-patrick-chuks) 
 
-### [Dave Patty](https://github.com/David-patrick-chuks)
-<img src="https://avatars.githubusercontent.com/u/161928481?v=4" width="100" height="100" style="border-radius: 50%;" />
+<div style="display: inline-block; margin-right: 10px; overflow: hidden; border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/161928481?v=4" width="50" height="50" style="border-radius: 100%;" />
+</div>
 
-### [BugHunter-X](https://github.com/BugHunter-X)
-<img src="https://avatars.githubusercontent.com/u/190237249?v=4" width="100" height="100" style="border-radius: 50%;" />
-
+### [BugHunter-X](https://github.com/BugHunter-X) 
+<div style="display: inline-block; overflow: hidden; border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/190237249?v=4" width="50" height="50" style="border-radius: 100%;" />
+</div>
 
 ## Contributing
 
-For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/react-vite-gen/CONTRIBUTE.md).
+For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/react-vite-gen/blob/main/CONTRIBUTE.md).
