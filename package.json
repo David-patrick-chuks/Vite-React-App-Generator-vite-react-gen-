@@ -1,6 +1,6 @@
 {
   "name": "vite-react-gen",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "build/cli.js",
   "type": "module",
   "build": {
@@ -55,13 +55,13 @@
     "javascript-obfuscator": "^4.1.1",
     "validate-npm-package-name": "^6.0.0"
   },
-  "homepage": "https://github.com/David-patrick-chuks/react-vite-gen",
+  "homepage": "https://github.com/David-patrick-chuks/vite-react-gen",
   "bugs": {
-    "url": "https://github.com/David-patrick-chuks/react-vite-gen/issues"
+    "url": "https://github.com/David-patrick-chuks/vite-react-gen/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/David-patrick-chuks/react-vite-gen.git"
+    "url": "https://github.com/David-patrick-chuks/vite-react-gen.git"
   },
   "funding": [
     {

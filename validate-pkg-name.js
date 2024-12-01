@@ -2,5 +2,5 @@ const validate = require('validate-npm-package-name');
 
 let result = validate('react-draft');
 console.log(result);
-result = validate('react-vite-gen');
+result = validate('vite-react-gen');
 console.log(result);

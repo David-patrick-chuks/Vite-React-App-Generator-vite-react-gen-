@@ -10,14 +10,14 @@
      `-'     `--' '--'   `--' 
 ```
 
-# Vite React App Generator (react-vite-gen)
+# Vite React App Generator (vite-react-gen)
 
 This is a simple and minimal Vite + React application generator, which can be used as a starting point for any Vite React app with TailwindCSS.
 
 ## Installation 🏭
 
 ```bash
-$ npm install -g react-vite-gen
+$ npm install -g vite-react-gen
 ```
 
 ## Why another Vite React generator ❓
@@ -48,7 +48,7 @@ $ npm run dev
 ## A Snapshot Says It All.
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/David-patrick-chuks/react-vite-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='react-vite-gen-draft'>
+<img src='https://raw.githubusercontent.com/David-patrick-chuks/vite-react-gen/refs/heads/main/SCREENCAST.svg' width='600' alt='vite-react-gen-draft'>
 </p>
 
 
@@ -143,4 +143,4 @@ https://buymeacoffee.com/davidpatrickchuks
 
 ## Contributing
 
-For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/react-vite-gen/blob/main/CONTRIBUTE.md).
+For contribution guidelines, please visit our [GitHub repository](https://github.com/David-patrick-chuks/vite-react-gen/blob/main/CONTRIBUTE.md).
