@@ -1,6 +1,6 @@
 {
   "name": "vite-react-gen",
-  "version": "1.0.7",
+  "version": "1.1.1",
   "main": "build/cli.js",
   "type": "module",
   "build": {
