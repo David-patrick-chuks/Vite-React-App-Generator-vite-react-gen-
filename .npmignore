@@ -1,0 +1,9 @@
+# .npmignore
+# Don't ignore README.md
+*.log
+node_modules/
+test/
+.git/
+.vscode/
+update.txt
+templates-extra/default.gitignore

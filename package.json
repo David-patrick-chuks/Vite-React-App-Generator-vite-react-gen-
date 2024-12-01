@@ -7,31 +7,35 @@
     "react-vite-gen": "bin/cli.js",
     "vrt": "bin/cli.js"
   },
-  "scripts": {},
+  "scripts": {
+    "build": "javascript-obfuscator bin --output build --compact true --control-flow-flattening true"
+  },
   "keywords": [
-  "vite",
-  "react",
-  "vite-react",
-  "vite generator",
-  "react generator",
-  "tailwindcss",
-  "tailwind",
-  "google fonts",
-  "poppins",
-  "frontend",
-  "app generator",
-  "vite app",
-  "react vite",
-  "web development",
-  "modern web",
-  "react starter",
-  "vite starter"
-],
+    "vite",
+    "react",
+    "vite-react",
+    "vite generator",
+    "react generator",
+    "tailwindcss",
+    "tailwind",
+    "google fonts",
+    "poppins",
+    "frontend",
+    "app generator",
+    "vite app",
+    "react vite",
+    "web development",
+    "modern web",
+    "react starter",
+    "vite starter"
+  ],
   "preferGlobal": true,
   "files": [
     "LICENSE",
-    "bin/",
-    "templates/"
+    "README.md",
+    "SCREENCAST.svg",
+    "build/",
+    "templates-extra/"
   ],
   "author": "David Patrick <pd3072894@gmail.com> (https://www.davidtsx.vercel.app/)",
   "license": "MIT",
@@ -45,6 +49,7 @@
     "ora": "^8.1.1"
   },
   "devDependencies": {
+    "javascript-obfuscator": "^4.1.1",
     "validate-npm-package-name": "^6.0.0"
   },
   "homepage": "https://github.com/David-patrick-chuks/react-vite-gen",
